@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bodystyle{
+    width: 90%;
+    margin: 0 auto;
+}
+.logostyle{
+    height: 35px;
+}
+.carousel-item{
+    position: relative;
+}
+.carousel-caption{
+    position: absolute;
+    top: 50px;
+    left: 7% !important;
+
+}
+.carousel-caption h3{
+    text-align: left;
+}
+.carousel-caption p{
+ text-align: left;
+ 
+}
+.carousel-caption .btn{
+    padding: 10px 40px;
+    position: absolute;
+    left: 0;
+    top: -30px;
+}
+.carousel-caption .btn1{
+    padding: 10px 40px;
+    position: absolute;
+    left: 0;
+    top: 120px;
+}
+.carousel-caption .btn2{
+    padding: 10px 40px;
+    position: absolute;
+    left: 0;
+    top: 120px;
+}
+.carousel-caption .btn3{
+    padding: 10px 40px;
+    position: absolute;
+    left:220px;
+    top: 120px;
+
+}
+.center{
+    width: 100%;
+    display: -ms-grid;
+    background-color: aqua;
+    height: 200px;
+    margin-top: 30px;
+    justify-items: center;
+    
+
+}
+.center img{
+    height: 40px;
+    
+
+}
+main{
+    margin: 40px 0;
+}
+.card{
+    border: none !important;
+}
+.card-body{
+    padding: 5px 0 !important;
+}
+.msstyle{
+    width: 100%;
+    height: 450px;
+    background-image:url(./images/section.webp) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 20px 0 50px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 70px;
+}
+
+main1{
+    margin: 40px 0;
+}
+.card1{
+    border: none !important;
+}
+.card-body1{
+    padding: 5px 0 !important;
+}
+.card0{
+    border: none !important;
+}
+.card1 h5{
+    margin-top: 30px;
+
+}
+.caps{
+    margin: 50px 0;
+    align-items: center;
+    text-align: center;
+    height: 180px;
+    background-color: rgba(48, 45, 51, 0.062);
+}
+.caps1{
+    padding-top:25px ;
+}
+.socialsec{
+    margin-bottom: 40px;
+}
+.fa-twitter-square{
+    color: rgb(86, 209, 247);
+}
+.fa-youtube-play{
+    color: red;
+}
+.fa-facebook-official{
+    color: #425daa;
+}
+footer{
+    background: #f2f2f2;
+    padding: 40px 0;
+}
+footer li{
+    list-style: none;
+}
+footer a{
+    text-decoration: none;
+    color: #818181;
+    font-size:x-small;
+}
+footer p{
+    padding-left: 30px;
+}
+.footerbtncredit{
+    padding-top: 60px;
+    font-size:x-small;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
